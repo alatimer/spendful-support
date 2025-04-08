@@ -7,7 +7,7 @@ Go to the Spending List View (far left tab), click the plus icon, and enter your
 You can edit or delete entries in the "Spending" tab.  You can also use the "select" toggle to delete many entries at once.
 
 ### Can I use Spendful across multiple devices?  
-Yes! As long as you are signed in with the same iCloud account, your data will sync automatically across your devices.  
+Yes! As long as you are signed in with the same iCloud account, your data will sync automatically across all of your devices.  
 
 ### What happens if I delete the app? Will I lose my data?  
 By default, your data is persisted in iCloud, and it will remain there even if you delete the app. When you reinstall and log in with the same iCloud account, your data will be restored. 
